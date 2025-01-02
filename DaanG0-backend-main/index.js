@@ -18,7 +18,7 @@ const app = express();
 const PORT = 5172;
 
 const corsOptions = {
-    origin: 'https://daan-g0-frontend.vercel.app',
+    origin: 'https://daango-8yfj.vercel.app/',
     optionsSuccessStatus: 200,
   };
   
