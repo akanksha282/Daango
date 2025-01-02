@@ -13,7 +13,7 @@ let baseapiurl = '';
 if (!process.env.NODE_ENV || process.env.NODE_ENV === 'development') {
   baseapiurl = 'http://localhost:5172';
 } else {
-  baseapiurl = 'https://daan-g0-backend.vercel.app';
+  baseapiurl = 'https://daango.vercel.app/';
 }
 
 const getYtVideoId = (url) => {
