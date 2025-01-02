@@ -1,7 +1,7 @@
 
 
 DaanGo is a crowdfunding/fundraiser platform.
-Check it out live [here](https://DaanGoweb.vercel.app).
+
 
 ## Built Using
 
